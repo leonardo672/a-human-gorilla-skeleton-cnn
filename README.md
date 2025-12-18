@@ -31,7 +31,7 @@ This limitation **does not affect:**
 - **Docker & docker-compose**: isolated execution for headless and deployment-oriented use cases.  
 - **Data folders & example images**: for testing inference and evaluation workflows.
 
---
+---
 
 ## 🔐 Pretrained Model Availability
 
