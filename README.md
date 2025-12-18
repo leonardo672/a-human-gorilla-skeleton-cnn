@@ -31,6 +31,27 @@ This limitation **does not affect:**
 - **Docker & docker-compose**: isolated execution for headless and deployment-oriented use cases.  
 - **Data folders & example images**: for testing inference and evaluation workflows.
 
+--
+
+## 🔐 Pretrained Model Availability
+
+The pretrained CNN model weights used for human vs. gorilla skeletal classification are **not included in this public repository**.
+
+### Rationale
+- The model is a custom-trained deep learning asset developed specifically for this project.
+- To protect intellectual property and prevent unauthorized or unintended commercial use, the pretrained weights are intentionally withheld.
+
+### What is included
+- Complete model architecture and inference pipeline
+- Data preprocessing and evaluation utilities
+- GUI (PyQt5) and headless execution logic
+- Docker and Jupyter-based execution workflows
+- Example inputs and sample outputs for demonstration
+
+### Access to pretrained weights
+Pretrained weights may be shared **upon request for academic, research, or evaluation purposes**.
+
+---
 
 #### Install Project Dependencies
 ``` 
